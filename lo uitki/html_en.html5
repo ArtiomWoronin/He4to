@@ -10,7 +10,7 @@
   </head>
   <body>
         <h2 id="main2"> okai </h2>
-        <p> <form action="https://artiomworonin.github.io/He4to/lo%20uitki/html.html" method="POST">
+        <p> <form action="https://artiomworonin.github.io/He4to/lo%20uitki/html.html5" method="POST">
           <label> Enter thy password or creat <strong> new </strong> </label>
           <input type="text" name="myfile" placeholder="Password">
          <div2> <button> Give out thy datas to everyone</button> </div2>
@@ -20,9 +20,9 @@
 <div4>
 <!-- Тест комментариев. Я тут могу написать вообще что угодно и это никак не повлияет на основной код? Чтож, отлично... -->
          <ul id="text1"> <p> Back:</p>
-           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main_page.html"> <button> la .lojban. </button> </a> </li>
-           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main-page_ru.html"> <button> русский </button></a> </li>
-           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main_page_en.html"> <button> english </button></a> </li>
+           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main_page.html5"> <button> la .lojban. </button> </a> </li>
+           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main-page_ru.html5"> <button> русский </button></a> </li>
+           <li id="text1"> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/main_page_en.html5"> <button> english </button></a> </li>
          </ul>
 </div4>
 <figure>
@@ -33,7 +33,7 @@
            <button> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/media/godm.opus"> </a> Download free </button>
     </audio>
 </figure>
-<div0> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/html_en.html"> <button> en </button></a>
-       <a href="https://artiomworonin.github.io/He4to/lo%20uitki/html.html"> <button> ru </button></a> </div0>
+<div0> <a href="https://artiomworonin.github.io/He4to/lo%20uitki/html_en.html5"> <button> en </button></a>
+       <a href="https://artiomworonin.github.io/He4to/lo%20uitki/html.html5"> <button> ru </button></a> </div0>
   </body>
 </html>
